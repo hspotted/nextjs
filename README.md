@@ -7,3 +7,4 @@
 - Husky
 - Prettier
 - Lint-Staged
+- Vitest
