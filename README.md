@@ -8,3 +8,5 @@
 - Prettier
 - Lint-Staged
 - Vitest
+- Tailwind
+- Next-Translate
