@@ -1,4 +1,4 @@
-import Head from "next/head";
+import Head from 'next/head'
 
 export default function HomePage() {
   return (
@@ -7,8 +7,8 @@ export default function HomePage() {
         <title>NEXTJS</title>
       </Head>
       <main>
-        <h1>Home Page</h1>
+        <h1 className='text-2xl'>Home Page</h1>
       </main>
     </>
-  );
+  )
 }
